@@ -1,0 +1,16 @@
+patient_id,age,gender,race,time_in_hospital,num_lab_procedures,num_medications,number_diagnoses,primary_diagnosis,discharge_disposition,readmitted
+1001,70,Female,Black,2,,16,,Hypertension,Home,1
+1002,,Female,Black,3,45,16,1,Heart Failure,Expired,0
+1003,65,Female,Asian,5,35,10,1,Diabetes,nan,0
+1004,,Male,Black,2,50,,1,nan,nan,1
+1005,,Male,Asian,5,40,,1,Hypertension,Nursing Facility,0
+1006,60,Female,nan,3,50,12,4,Diabetes,Expired,0
+1007,65,Female,Asian,3,40,,3,nan,Expired,0
+1008,65,Male,nan,2,40,12,3,nan,Home,0
+1009,65,Male,nan,3,50,10,1,Heart Failure,Expired,0
+1010,,Male,White,,,16,3,Diabetes,Home,1
+1011,70,nan,Asian,3,40,16,3,nan,Expired,1
+1012,65,nan,White,5,40,16,1,Hypertension,Nursing Facility,1
+1013,,nan,Asian,5,50,,3,Hypertension,Expired,0
+1014,60,Female,Asian,5,40,10,,Heart Failure,Home,0
+1015,70,nan,White,5,40,,2,nan,Home,0
